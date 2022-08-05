@@ -48,5 +48,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/> 
-  
 </div>
+
+### :fire: My Stats:
+[![Karla's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlaDampilag&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarlaDampilag&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlaDampilag&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
