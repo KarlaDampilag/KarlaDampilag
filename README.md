@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: &nbsp;About me:
 
-- I'm a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who's having a lot of fun with MERN + TypeScript + GraphQL. Currently falling in love with Next.js
-- 🔭 Past projects: [Full Stack Vault](https://fullstackvault.xyz) and my blog, [coderfiles.dev](https://coderfiles.dev).
-- 👯 I’m looking to collaborate on interesting and active projects that use the technologies I currently use (listed below). Note: even "boring" projects can be interesting :wink:
+- I'm a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who's having a lot of fun with Next.js + TypeScript + Postgres.
+- 👯 I’m open to collaborate on interesting and active projects that use the technologies I currently use (listed below). Note: even "boring" projects can be interesting :wink:
 - ⚡ Fun fact: I love working remotely, which I've been doing since 2016 (shout out to [groupXS](https://www.groupxs.com/) for cultivating such an amazing workplace).
 
 ### :hammer_and_wrench: Languages and tools:
